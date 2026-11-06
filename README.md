@@ -1,6 +1,6 @@
 # MODULE 2 PA - CALONIA
 
-This design is an environment recreation of the Polus Lava Pit from "Among Us".
+This design is an environment recreation of the Polus Lava Pit from "Among Us". (attached in CALONIA M2 PA/assets/images/ReferenceImage.png)
 
 Installation:
 
